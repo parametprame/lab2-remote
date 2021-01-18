@@ -6,8 +6,8 @@
 
 **Name** : Paramet Kongjaroen
 
-> King mongkut's institude of technology ladkrabang
+> [King mongkut's institude of technology ladkrabang](https://www.kmitl.ac.th)
 
 ```
-print("hello world")
+print("Hello Ladkrabang")
 ```
